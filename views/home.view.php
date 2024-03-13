@@ -9,7 +9,7 @@
         integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="css/style.css" />
-    <title>Workopia</title>
+    <title>JobFinder</title>
 </head>
 
 <body class="bg-gray-100">
@@ -17,7 +17,7 @@
     <header class="bg-blue-900 text-white p-4">
         <div class="container mx-auto flex justify-between items-center">
             <h1 class="text-3xl font-semibold">
-                <a href="index.html">Workopia</a>
+                <a href="index.html">JobFinder</a>
             </h1>
             <nav class="space-x-4">
                 <a href="login.html" class="text-white hover:underline">Login</a>
