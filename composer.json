@@ -1,0 +1,16 @@
+{
+  "name": "gucek82/jobfinder",
+  "description": "Job listing application",
+  "authors": [
+    {
+      "name": "Krzysztof Sarna",
+      "email": "krzysztof@wwwizard.pl"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "Appk\\": "App/"
+    }
+  }
+}
