@@ -13,11 +13,7 @@ loadPartial('top-banner');
             foreach($errors as $error) { ?>
         <div class="message bg-red-100 p-3 my-3"><?= $error ?></div>
         <?php }
-    } else { ?>
-        <div class="message bg-green-100 p-3 my-3">
-            This is a success message.
-        </div>
-        <?php } ?>
+    } ?>
         <form method="POST" action="/listings">
             <h2 class="text-2xl font-bold mb-6 text-center text-gray-500">
                 Job Info
